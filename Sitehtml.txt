@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta  name="desempenho máximo" content="Saiba com melhorar o desempenho do seu computador">
+    <meta href="https://www.pcgaming.com">
+    <link rel="amphtml" href="http://file:///C:/Users/max14/OneDrive/Área%20de%20Trabalho/html,css,js/www.PCgaming.com.html/amp/news">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>T.I/</title>
+<link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+ <div id="progressbar"></div>
+ <div id="scrollpath"></div>
+ <section></section>
+     
+
+<div class="energy">
+    <span   style="--CRL:#FBAD04;--I:18PX;--d:2.5s;"></span>
+    <span   style="--CRL:#03a1d9;--I:13PX;--d:5s;"></span>
+    <span   style="--CRL:#f7036d;--I:15PX;--d:7.5s;"></span>
+    <span   style="--CRL:#93ff16;--I:20PX;--d:10s;"></span>
+ 
+</div>
+
+
+ <div class="wavy">
+    <span  style="--i:1;" >T</span>
+    <span style="--i:2;">.</span>
+    <span style="--i:3;">I</span>
+    <span style="--i:4;">/</span>
+    <span style="--i:4;"></span>
+    <span style="--i:5;"></span>
+    <span style="--i:6;"></span>
+    <span   style="--i:7;"></span>
+    <span   style="--i:8;"></span>
+    <span   style="--i:9;"></span>
+    <span   style="--i:10;"></span>
+    <span   style="--i:11;"></span>
+
+ </div>
+<br><br><br>
+
+
+<head class="Estrutura da pagina">
+    <nav>
+        <!--começo da pagina-->
+        <div class='sub-titulo'>
+            <h3>Serve tanto para notbook quanto para computadores gamer e de trabalho.</h3>
+
+        </div>
+
+        <div class='sub-titulo'>
+               <p> <b>Melhores configurações para melhorar o desempenho do pc:</b>
+        
+            </p>
+        </div>
+
+        <!--'Meio da pagina'-->
+    </nav>
+</head>
+
+
+        <main>
+<hr>
+        <h2>Dica 1</h2>
+        <br><br>
+        
+
+            <section>
+ <p>Pesquise na barra de pesquisa do windows: "CMD" ou "Propt de comando."</p>
+ <img  class="Imagem-do-cmd"  width="320" height="205"  src="cmd.png" alt="Carregando">
+</section>
+<small>Lembrete: colocar em <strong>"executar como administrador." </strong></small>
+        </main>
+
+        <div>
+            <strong> Em seguida coloque o seguinte codigo:</strong> 
+ <code> powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61 </code>
+ <br><br>
+        </div>
+        <img class="imagem_do_codigo_cmd" src="cmd-codigo.png" alt="Carregando_codigo">
+  <main>
+<h2>Aperta enter:</h2>
+<br><br>
+<img src="cmd_codigo_executado.png" alt="Carregando_codigo_executado">
+    <section class="Exemplos">
+    </section>
+
+
+    <section>
+        <p>
+            <b>Depois de liberar o desempenho máximo, vá para a barra de pesquisa do windows e coloque: "Editar plano de energia." </b>
+        </p>
+        <img src="editar_plano_de_energia.png" alt="Carregando_imagem_do_plano_de_energia">
+       <h1>Aperte em "Abrir" e em seguida, vá na opção:<p> "Alterar configurações de energia avançadas".</p></h1>
+       <img src="editor_de_plano.png" alt="Carregando_configurações">
+       <h5>Agora coloque a opção de desepenho máximo:</h5>
+       <img src="Desepenho máximo.png" alt="Carregando_desepenho_máximo">
+    </section>
+
+    </main>
+<aside>
+    <strong>
+       <h2>Dica 2</h2>
+        <hr>
+    </strong>
+
+    <h3>Codigos de verificação e reparamento de arquivos:</h3>
+    <small> <b>Lembrete</b>: Os codigos só funcionarão se a pessoa tiver colocado para executar o cmd, como <strong>administrador.</strong></small>
+
+       <p>Todos os codigos devem ser insiridos no Propt de comand (cmd).</p>
+        <h3>Primeiro codigo: sfc/scannow</h3>
+        <img src="sfccannow.png" alt="Carregando_sfc/cannow">
+
+        <h1 Codigos>Em seguida, faça o mesmo com os codigos seguites:</h1>
+          <div class="codigos" id="lembrete: deixar bonito">
+
+      <p>DISM.exe /Online /Cleanup-Image /RestoreHealth /Source:C:\RepairSource\Windows /LimitAccess;</p>
+        <p>DISM.exe /Online /Cleanup-image /Restorehealth;</p>
+        <p>chkdsk;</p>
+        <p>sfc/scannow.</p>
+        </div>
+
+</aside>
+
+
+<h3><strong>Dica 3</strong></h3>
+<hr>
+<div class="Segundo_plano">
+<h2>Desativar aplicativos em segundo plano.</h2>
+    <p>Na barra de pesquisa do windows, escreva: "Aplicativos em segundo plano."</p>
+    <img src="Segundo plano.png" alt="Carregando_segundo_plano">
+    <p>Em seguida desative a caixa de permite aplicativos em segundo plano.</p>
+    <div>
+        <small>Cuidado! se algum aplicativo for necessarios para a sua maquina ou algum ser dependor dela, não a desative. Vai de cada computador.</small>
+    </div>
+
+    <img src="Desative aplicativos em segundo plano.png" alt="Carregar_desativador">
+</div>
+<div>
+    <h2>Dica 4</h2>
+    <hr>
+    <h4> Como na etapa 3 desativar aplicativos em segundo plano. Porem, no gerenciador de tarefas.</h4>
+    <q>Para abrir o gerenciado de taferas, vá na barra de tarefas ou no atalho do teclado: Ctrl+Shift+Esc. </q>
+</div>
+<img src="gerenciador.png" alt="Carregando-gerenciador">
+    <p>Na opção: "Inicializar."</p>
+        <h4 class="inicializar">Desative os aplicativos a qual não utilizara ao seu computador ser inicializado.</h4>
+        <div>
+            <small>Aperte no aplicativo e coloque em "Desabilitar."</small>
+        </div>
+    <img src="tarefa.png" alt="">
+
+    <div>
+
+        <h2>Dica 5</h2>
+        <hr>
+    <h3 class="linha" id="Lembrete: colocar uma linha em css">Drives atualizados</h3>
+
+    <p>Atualizar os drives da maquina melhora incondicionalmente o fps em jogos, quanto no dia a dia. E evita ter problemas futuros com drives desatualizados.</p>
+
+    <Strong>Drives intel e AMD</Strong>
+    <p><strong>Placa de video e do processador</strong></p>
+    <div>
+        <h2>Site para processadores:</h2>
+    <a href="https://www.intel.com.br/content/www/br/pt/support/intel-driver-support-assistant.html">Intel</a>
+    </div class="Drives_processadores">
+    <a href="https://www.amd.com/pt/support">AMD</a>
+    </div>
+    <div class="Drives_placa_de_video">
+        <h2>Drives da Placa de video:</h2>
+    
+        <a href="https://www.nvidia.com.br/Download/index.aspx?lang=br" class="Nvdia_placa_de_video" id="Colocar_img">Nvdia</a>
+    </div>
+    <div>
+        <a href="https://www.amd.com/pt/support" class="Placa_de_video_AMD" id="Colocar_img">AMD</a>
+    </div>
+    <div>
+
+
+        <main>
+
+            <section>
+
+                <h2>Dica 6</h2>
+                <hr>
+                <p>Voltando no editor de plano de energia</p>
+                <img src="editor.png" alt="Carregando_editor">
+
+
+            </section>
+
+
+        </main>
+    </div>
+    <div>
+        <h4>Em "Alterar configurações de energia avançadas", entra na janela.</h4>
+        <img src="janela.png" alt="Carregando_janela">
+        <h3>Em seguida coloque na opção "Gerenciamento de energia do processador", depois vá em "Estado de desepenho máximo". E coloque em 85%. Provavelmente vai estar em 100%.</h3>
+    </div>
+    <img src="85.png" alt="Carregando_85%">
+    <h2>Por fim, existe outras formas de melhorar o desempenho do computador. Se procurar artigos relacionados ou videos. Tem varios. Entretanto, essas dicas melhora muito o desempenho do computador.</h2>
+
+    <!-- <div class="box">
+        <h2>Artigos</h2>
+    
+            <ul class="listas">
+                <li> <span><a  target="_blank" href="https://www.hp.com/br-pt/shop/tech-takes/7-maneiras-de-melhorar-o-desempenho-do-seu-computador">Artigo1</a></span></li>
+                <li> <span><a   target="_blank" href="https://support.microsoft.com/pt-br/windows/dicas-para-melhorar-o-desempenho-do-pc-no-windows-b3b3ef5b-5953-fb6a-2528-4bbed82fba96">Artigo2</a></span></li>
+                <li> <span><a    target="_blank" href="https://razor.com.br/blog/tecnologia/6-dicas-para-melhorar-o-desempenho-do-pc/">Artigo3</a></span></li>
+                <li> <span><a   target="_blank" href="https://www.techtudo.com.br/dicas-e-tutoriais/2019/02/como-melhorar-o-desempenho-do-seu-pc-para-rodar-melhor-os-seus-games.ghtml">Artigo4</a></span></li>
+                <li> <span><a   target="_blank" href="https://www.programanex.com.br/blog/computador-lento-como-melhorar-o-desempenho-de-sua-maquina-em-ate-4-passos">Artigo5</a></span></li>
+            </ul>
+          
+<article class="comentario" id="Lembrete: colocar comentario no site."></article>
+ -->
+
+
+
+    <script src="index.js">
+    </script>
+    <div class="container">
+
+        <div class="bubbles">
+    
+            <span   style="--i:11;"></span>
+            <span   style="--i:12;"></span>
+            <span   style="--i:24;"></span>
+            <span   style="--i:10;"></span>
+            <span   style="--i:14;"></span>
+            <span   style="--i:23;"></span>
+            <span   style="--i:18;"></span>
+            <span   style="--i:16;"></span>
+            <span   style="--i:19;"></span>
+            <span   style="--i:20;"></span>
+            <span   style="--i:22;"></span>
+            <span   style="--i:25;"></span>
+            <span   style="--i:18;"></span>
+            <span   style="--i:21;"></span>
+            <span   style="--i:15;"></span>
+            <span   style="--i:13;"></span>
+            <span   style="--i:26;"></span>
+            <span   style="--i:17;"></span>
+            <span   style="--i:13;"></span>
+            <span   style="--i:28;"></span>
+            
+    
+        </div>
+    
+    </div>
+    
+
+
+
+
+    
+</body>
+</html>
